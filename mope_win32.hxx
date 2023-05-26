@@ -27,7 +27,7 @@
 #include <Windows.h>
 #include <strsafe.h>
 
-#include "mope_illustrator.hxx"
+#include "mope_illustrator/mope_illustrator.hxx"
 
 namespace
 {
